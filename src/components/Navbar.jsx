@@ -79,25 +79,31 @@ export default function Navbar() {
                             className="my-2 text-black transition-colors duration-300 transform hover:text-orange-400 md:mx-4 md:my-0"
                             href="#"
                         >
-                            Home
+                            Inicio
                         </a>
                         <a
                             className="my-2 text-black transition-colors duration-300 transform hover:text-orange-400 md:mx-4 md:my-0"
                             href="#"
                         >
-                            Shop
+                            Servicios
                         </a>
                         <a
                             className="my-2 text-black transition-colors duration-300 transform hover:text-orange-400 md:mx-4 md:my-0"
                             href="#"
                         >
-                            Contact
+                            Tecnologías
                         </a>
                         <a
                             className="my-2 text-black transition-colors duration-300 transform hover:text-orange-400 md:mx-4 md:my-0"
                             href="#"
                         >
-                            About
+                            Nosotros
+                        </a>
+                         <a
+                            className="my-2 text-black transition-colors duration-300 transform hover:text-orange-400 md:mx-4 md:my-0"
+                            href="#"
+                        >
+                            Tecnologías
                         </a>
                     </div>
                 </div>
